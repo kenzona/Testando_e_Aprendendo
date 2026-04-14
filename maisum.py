@@ -1,0 +1,1 @@
+print("comportamento normal isso")
